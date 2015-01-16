@@ -1,0 +1,37 @@
+{
+  "ProjectName": "WKWebView Demo",
+  "ProjectGuid": "5c3182d4-b38a-4aff-a4a7-1558b438b3b9",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.WKWebViewDemo",
+  "DisplayName": "WKWebView Demo",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{d54d039f-b443-4d47-8ba7-f4ffc950376e}",
+  "WP8ProductID": "{2abfcd85-a6bf-47b6-8f30-2b06fb4d71aa}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}

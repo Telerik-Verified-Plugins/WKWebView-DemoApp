@@ -50,14 +50,14 @@
         data-model="app.demoService.viewModel">
 
         <div class="demo">
-            <h3 class="hassubtitle">Perf test stuff..</h3>
+            <h3 class="hassubtitle">A little WebGL performance test</h3>
             <div class="subtitle">
-              The WebGL demo in the WKWebView iframe should reach 60 FPS without eating the entire CPU.
+              The demo in the WKWebView iframe should reach 60 FPS without eating the entire CPU.
               The InAppBrowser UIWebView should perform a lot worse.
               By the way, the difference in resolution has only marginal impact.
             </div>
-            <button data-role="button" class="button" data-bind="click: wkwebviewDemo">WKWebView in an iframe</button>
             <button data-role="button" class="button" data-bind="click: uiwebviewDemo">UIWebView in InAppBrowser</button>
+            <button data-role="button" class="button" data-bind="click: wkwebviewDemo">WKWebView in an iframe</button>
         </div>
         
         <iframe id="webglFrame" src="" frameborder="0" style="border:0"></iframe>

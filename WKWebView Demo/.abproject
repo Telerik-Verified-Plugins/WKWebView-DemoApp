@@ -2,10 +2,10 @@
   "ProjectName": "WKWebView Demo",
   "ProjectGuid": "5c3182d4-b38a-4aff-a4a7-1558b438b3b9",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.WKWebViewDemo",
+  "AppIdentifier": "com.telerik.plugindemo.wkwebview",
   "DisplayName": "WKWebView Demo",
-  "Author": "",
-  "Description": "",
+  "Author": "Telerik",
+  "Description": "WKWebView Demo",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
@@ -14,7 +14,7 @@
   ],
   "iOSBackgroundMode": [],
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "FrameworkVersion": "3.5.0",
+  "FrameworkVersion": "3.7.0",
   "AndroidPermissions": [],
   "DeviceOrientations": [
     "Portrait",
@@ -33,5 +33,13 @@
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
+  ],
+  "CorePlugins": [
+    "org.apache.cordova.console",
+    "org.apache.cordova.device",
+    "org.apache.cordova.dialogs",
+    "org.apache.cordova.inappbrowser",
+    "org.apache.cordova.splashscreen",
+    "org.apache.cordova.statusbar"
   ]
 }

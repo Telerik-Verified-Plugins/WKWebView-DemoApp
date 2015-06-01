@@ -35,11 +35,14 @@
     "ID_RESOLUTION_HD720P"
   ],
   "CorePlugins": [
+    "com.telerik.plugins.wkwebview@0.3.8",
     "org.apache.cordova.console",
     "org.apache.cordova.device",
     "org.apache.cordova.dialogs",
     "org.apache.cordova.inappbrowser",
     "org.apache.cordova.splashscreen",
     "org.apache.cordova.statusbar"
-  ]
+  ],
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.plugindemo.wkwebview"
 }

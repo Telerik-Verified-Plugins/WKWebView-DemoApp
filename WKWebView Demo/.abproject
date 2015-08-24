@@ -35,7 +35,6 @@
     "ID_RESOLUTION_HD720P"
   ],
   "CorePlugins": [
-    "com.telerik.plugins.wkwebview@0.3.8",
     "org.apache.cordova.console",
     "org.apache.cordova.device",
     "org.apache.cordova.dialogs",
